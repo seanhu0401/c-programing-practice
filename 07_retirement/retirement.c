@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-struct retire_info_t{
+struct _retire_info{
   int months; //number of months it is applicable to
   double contribution; //how many dollars are contributed (or spend if negative) from the account per month
   double rate_of_return; //rate of returns (assume to be "after inflation")
