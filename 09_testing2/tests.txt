@@ -1,0 +1,15 @@
+aaaaa bbbbb
+aaaaa bbbbc
+aaabb bbbbc
+aabbb bbbcc
+abbbb bbbbc
+abcde abcdd
+abcde abcdef
+abcdef abcdef
+abcde abcde abcde
+abcd abbee
+abcde
+a abcde
+Abcde abcde
+abcdef abcde
+abcde abcd
