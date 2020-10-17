@@ -7,7 +7,7 @@ struct _retire_info{
   double rate_of_return; //rate of returns (assume to be "after inflation")
 };
 
-typedef struct retire_info_t retire_info;
+typedef struct _retire_info retire_info;
 
 double account_calculation (double contribution,
 			 double rate_of_return,
