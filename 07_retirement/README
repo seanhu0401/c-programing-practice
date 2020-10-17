@@ -38,7 +38,6 @@
    cmopute 1000 * 0.005 = $5 in interest earned.  You would then
    add this plus the monthly contribution to the balance to end up
    with $1105 in the account at the end of the month.
-
    At the start of each month (before the balance changes), you should
    print out the current balance with the following format:
     "Age %3d month %2d you have $%.2lf\n"
@@ -46,7 +45,6 @@
    The third format conversion is the account balance
    This calculation goes on for the number of months specified 
    in the "working" retire_info structure.  
-
  
    Second, you should perform a very similar calculation for each
    month of retirment.  The difference here is that you will use the
