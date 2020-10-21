@@ -1,6 +1,7 @@
-Grading at Wed Oct 21 17:22:35 UTC 2020
+Grading at Wed Oct 21 17:25:42 UTC 2020
 Attempting to compile test.c
-The code did not compile
+gcc -o -Wall -Werror -std=gnu99 -pedantic test.c
+compiled
 Line_2_did_not_match
 Line_3_did_not_match
 Line_4_did_not_match
