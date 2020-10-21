@@ -1,0 +1,6 @@
+In f, *a = 3, b = 4
+In g, x = 4, *y = 8
+Back in f, *a = 3, b = 3
+In main: x = 3, y = 4
+
+ 
