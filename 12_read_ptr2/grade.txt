@@ -1,7 +1,8 @@
-Grading at Thu Oct 22 04:13:46 UTC 2020
+Grading at Thu Oct 22 04:17:57 UTC 2020
 Attempting to compile test.c
 gcc -o test -Wall -Werror -pedantic -std=gnu99 test.c
 compiled
+Line_6_did_not_match
 Your file did not match the expected ouput
 Your output did not match what we expected.
 
