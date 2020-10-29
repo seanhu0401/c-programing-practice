@@ -1,8 +1,7 @@
-Grading at Thu Oct 29 01:12:44 UTC 2020
+Grading at Thu Oct 29 01:13:31 UTC 2020
 Attempting to compile test.c
-gcc -o test -Wall -Werror -pandentic -std=gnu99 test.c
-Makefile:2: recipe for target 'test' failed
-The code did not compile
+gcc -o test -Wall -Werror -pedantic -std=gnu99 test.c
+compiled
 Line_3_did_not_match
 Line_4_did_not_match
 Line_5_did_not_match
