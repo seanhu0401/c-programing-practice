@@ -1,2 +1,2 @@
 test: test.c
-	gcc -o test -Wall -Werror -pendatic -std=gnu99 test.c
+	gcc -o test -Wall -Werror -pandentic -std=gnu99 test.c
